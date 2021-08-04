@@ -1,11 +1,11 @@
 import React from "react";
 import Cardsgrid from "./Cardsgrid";
-import instagram from "../img/instagram.svg";
-import twitter from "../img/twitter.svg";
-import facebook from "../img/facebook.svg";
-import youtube from "../img/youtube.svg";
-import up from "../img/up.svg";
-import down from "../img/down.svg";
+import instagram from "../instagram.svg";
+import twitter from "../twitter.svg";
+import facebook from "../facebook.svg";
+import youtube from "../youtube.svg";
+import up from "../up.svg";
+import down from "../down.svg";
 const Cardg = () => {
   const dataGrid = [
     {
