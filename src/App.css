@@ -1,0 +1,15 @@
+.header_top,
+.header_down {
+  margin: 2rem 1rem;
+  color: #fff;
+}
+.header_down {
+  margin: 5rem 0 2rem 0;
+  font-size: 22px;
+}
+@media (min-width: 1000px) {
+  .header_top,
+  .header_down {
+    margin: 2rem 17.7rem;
+  }
+}
